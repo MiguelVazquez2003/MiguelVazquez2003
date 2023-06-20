@@ -14,26 +14,44 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# ¡Hola!, Mi nombre es Miguel Vazquez 👋
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+  <h1 align="center">¡Hola! Mi nombre es Mike👋</h1>
+  <h3 align="center">Soy un estudiante🧑‍💻🧑‍💻, y me llena de entusiasmo la tecnologia👾👾</h3>
+</div>
 
 
-Soy un estudiante🧑‍💻🧑‍💻 y me apasiona la idea de programar y poder participar en proyectos!!😀😀🧐
-![coding](https://github.com/MiguelVazquez2003/MiguelVazquez2003/assets/111162565/5b3338f7-9e4c-429f-83d2-f79fcfa77e20)
+---
+### 🧍‍♂️🧍‍♂️ Sobre mi 
+- Actualmente estudio la carrera de Ciencias Computacionales por parte de la FCFM en la UANL y estoy en sexto semestre🤚👆
+- Soy un gran amante del deporte, especialmente del futbol ⚽⚽⚽. 
+
+---
+###
+<div align="left">
+    <h3>🔨  💻  Lenguajes y Herramientas  🖥  :</h3>
+    <h4>- Me gusta la programacion orientada a objetos 🚗🚗 y el BackEnd</h4>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original-wordmark.svg" title="Ionic" alt="Ionic" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" **alt="C#" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="ASP.NET Core" **alt="ASP.NET Core" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL SERVER" **alt="SQL SERVER" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongoDB" **alt="mongoDB" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" **alt="Java" width="40" height="40"/>
+      </div>
+</div>
+
+---
+### Mis stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelVazquez2003&show_icons=true&theme=dark)
 
 
-
-
-## 🔭 Sobre mi 
-
--Actualmente estudio la carrera de Ciencias Computacionales por parte de la FCFM en la UANL y estoy en sexto semestre👻👻👻
-![fcfm](https://github.com/MiguelVazquez2003/MiguelVazquez2003/assets/111162565/d7ca4699-19df-41b3-b175-75ca5a9d9239)
-
-
--Soy un gran amante del deporte, especialmente del futbol ⚽⚽⚽🥳.
-
-
-
-![messi](https://github.com/MiguelVazquez2003/MiguelVazquez2003/assets/111162565/dfcae4a2-5b81-48b5-a944-3e09160e7457)
 
 
 
