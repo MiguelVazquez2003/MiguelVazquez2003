@@ -25,7 +25,12 @@ Here are some ideas to get you started:
 ---
 ### 🧍‍♂️🧍‍♂️ Sobre mi 
 - Actualmente estudio la carrera de Ciencias Computacionales por parte de la FCFM en la UANL y estoy en sexto semestre🤚👆
-- Soy un gran amante del deporte, especialmente del futbol ⚽⚽⚽. 
+- Soy un gran amante del deporte, especialmente del futbol ⚽⚽⚽.
+
+
+
+![messi](https://github.com/MiguelVazquez2003/MiguelVazquez2003/assets/111162565/dfcae4a2-5b81-48b5-a944-3e09160e7457)
+
 
 ---
 ###
@@ -34,7 +39,6 @@ Here are some ideas to get you started:
     <h4>- Me gusta la programacion orientada a objetos 🚗🚗 y el BackEnd</h4>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original-wordmark.svg" title="Ionic" alt="Ionic" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" **alt="C#" width="40" height="40"/>
