@@ -28,8 +28,10 @@ Here are some ideas to get you started:
 - Soy un gran amante del deporte, especialmente del futbol ⚽⚽⚽.
 
 
+  <img src="https://github.com/MiguelVazquez2003/MiguelVazquez2003/assets/111162565/aa595e88-f9c6-471c-bedd-4471831de42a" width="200" alt="atom">
 
-![messi](https://github.com/MiguelVazquez2003/MiguelVazquez2003/assets/111162565/dfcae4a2-5b81-48b5-a944-3e09160e7457)
+
+
 
 
 ---
