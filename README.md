@@ -39,13 +39,9 @@ Here are some ideas to get you started:
     <h4>- Me gusta la programacion orientada a objetos 🚗🚗 y el BackEnd</h4>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" **alt="C#" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="ASP.NET Core" **alt="ASP.NET Core" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL SERVER" **alt="SQL SERVER" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongoDB" **alt="mongoDB" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" **alt="Java" width="40" height="40"/>
       </div>
 </div>
