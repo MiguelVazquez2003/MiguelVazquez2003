@@ -15,52 +15,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id="header" align="center">
 
   <h1 align="center">¡Hola! Mi nombre es Mike👋</h1>
+  <h3 align="center">Soy un estudiante🧑‍💻🧑‍💻, y me apasiona el desarrollo de software👾👾, especialmente el  Backend.</h3>
 
-  <h3 align="center">Soy un estudiante🧑‍💻🧑‍💻, y me llena de entusiasmo la tecnologia👾👾</h3>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="210" />
 
-</div>
 
 
 ---
 ### 🧍‍♂️🧍‍♂️ Sobre mi 
-- Actualmente estudio la carrera de Ciencias Computacionales por parte de la FCFM en la UANL y estoy en sexto semestre🤚👆
-- Soy un gran amante del deporte, especialmente del futbol ⚽⚽⚽.
-
-
-  <img src="https://github.com/MiguelVazquez2003/MiguelVazquez2003/assets/111162565/aa595e88-f9c6-471c-bedd-4471831de42a" width="200" alt="atom">
-
-
-
+- Actualmente estudio la carrera de Ciencias Computacionales por parte de la FCFM en la UANL y estoy en séptimo semestre🤚👆
 
 
 ---
-###
-<div align="left">
-    <h3>🔨  💻  Lenguajes y Herramientas  🖥  :</h3>
-    <h4>- Me gusta la programacion orientada a objetos 🚗🚗 y el BackEnd</h4>
-    <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="ASP.NET Core" **alt="ASP.NET Core" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL SERVER" **alt="SQL SERVER" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongoDB" **alt="mongoDB" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" **alt="Java" width="40" height="40"/>
-      </div>
-</div>
+### Lenguajes y herramientas
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
 
 ---
 ### Mis stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelVazquez2003&show_icons=true&theme=dark)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelvazquez2003&show_icons=true&locale=en&layout=compact" alt="miguelvazquez2003" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelvazquez2003&show_icons=true&locale=en" alt="miguelvazquez2003" /></p>
 
-
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MiguelVazquez2003&theme=dark&hide_border=true&locale=es&type=png)](https://git.io/streak-stats)
 
 
 
