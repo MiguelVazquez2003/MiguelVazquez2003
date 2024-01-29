@@ -39,7 +39,6 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelvazquez2003&show_icons=true&locale=en" alt="miguelvazquez2003" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MiguelVazquez2003&theme=dark&hide_border=true&locale=es&type=png)](https://git.io/streak-stats)
 
 
 
