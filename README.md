@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ---
 ### 🧍‍♂️🧍‍♂️ Sobre mi 
-- Actualmente estudio la carrera de Ciencias Computacionales por parte de la FCFM en la UANL y estoy en séptimo semestre🤚👆
+- Actualmente estudio la carrera de Ciencias Computacionales por parte de la FCFM en la UANL y estoy en octavo semestre🤚👆
 
 
 ---
