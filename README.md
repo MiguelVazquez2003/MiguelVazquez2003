@@ -16,7 +16,7 @@ Soy un apasionado de la tecnologia en general y estoy en mi último semestre en 
 ## 🌐 Mis Sitios Web
 
 <div align="center">
-  <a href="https://miguelvazquezportafolio.vercel.app/" target="_blank">
+  <a href="https://miguelvazquezportfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio"/>
   </a>
   <a href="https://mikeblog2003.netlify.app/" target="_blank">
