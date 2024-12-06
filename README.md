@@ -58,7 +58,9 @@ Soy un apasionado de la tecnologia en general y estoy en mi último semestre en 
 
 
 ---
-
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=22rkm45e5ilw752gfpdlyeloq" alt="Spotify Recently Played"/>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
