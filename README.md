@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Estudiante+de+Ciencias+Computacionales;+Desarrollo+Backend+y+Frontend;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Ciencias+Computacionales;+Desarrollo+Backend+y+Frontend;" alt="Typing SVG" />
 </div>
 
 ### 🌟 Sobre Mí
